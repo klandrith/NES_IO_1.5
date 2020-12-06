@@ -23,8 +23,10 @@ Grab the firmware for the PIC16F684 here: https://github.com/borti4938/NES_IGR_f
     thanks for figuring out, splits (shmups forum)
 
 
-The Rev 1.5 add the audio module, and there is now a NO CUT version where a miniDIN 9pin and a miniDIN 4pin replace the SNES/GC Multiout.
---
---> YOU'LL NEED TO REMOVE THE 3 RESISTORS ON THE RGB LINES OF THE NESRGB BOARD IF YOU ARE USING THE NOCUT BOARD
---
 
+-- The Rev 1.5 add the audio module, and there is now a NO CUT version where a miniDIN 9pin and a miniDIN 4pin replace the SNES/GC Multiout.
+--
+-- You need to send to fab the blank audio module PCB for all versions, and the miniDIN 4 spacer IN 1MM THICK for the NOCUT.
+--
+-- YOU'LL NEED TO REMOVE THE 3 RESISTORS ON THE RGB LINES OF THE NESRGB BOARD IF YOU ARE USING THE NOCUT BOARD
+--
