@@ -18,6 +18,10 @@ The NOCUT requires the following PCBs (gerber zipped files):
 Installation Notes:
 - For the NOCUT version, you need to remove the 75omhs resistors on the RGB lines of the NESRGB
 
+
+- TO BE DONE: FULL PDF WITH PICS OF THE INSTALL
+ 
+
 Audio
 - For default installation, you have 3 possibilies
 
