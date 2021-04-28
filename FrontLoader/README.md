@@ -15,5 +15,9 @@ The NOCUT requires the following PCBs (gerber zipped files):
 
 
 
-You'll need to cut some parts on the PCBs: they are currently designed to avoid extra costs on castelated vias.
-They are around the RCA plugs and on the miniDIN4_spacer.
+-- You need to send to fab the blank audio module PCB for all versions, and the miniDIN 4 spacer IN 1MM THICK for the NOCUT.
+--
+-- You'll need to cut some parts on the PCBs: they are currently designed to avoid extra costs on castelated vias.
+--
+-- They are around the RCA plugs and on the miniDIN4_spacer.
+--
