@@ -19,7 +19,7 @@ Installation Notes:
 - For the NOCUT version, you need to remove the 75omhs resistors on the RGB lines of the NESRGB
 
 
-- TO BE DONE: FULL PDF WITH PICS OF THE INSTALL
+- PDF installation guide link: https://github.com/TRP-Retromods/NES_IO_1.5/blob/master/OG_Famicom/Famicom_IO_Installation.pdf
  
 
 Audio
